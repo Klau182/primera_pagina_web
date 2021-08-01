@@ -16,3 +16,11 @@
     margin-top: 20px;
     margin-bottom: 20px;
   }
+
+  footer {
+    background-color: #000;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 100px;
+  }
