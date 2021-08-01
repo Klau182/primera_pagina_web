@@ -24,3 +24,8 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     height: 100px;
   }
+
+  footer h2 {
+    font-size: 40px;
+    padding-top: 30px;
+  }
